@@ -1,4 +1,4 @@
-def broken_search(nums, target) -> int:
+def broken_search(nums, target):
     left = 0
     right = len(nums) - 1
     while left <= right:
