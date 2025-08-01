@@ -165,9 +165,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Competitive programming problems from Yandex Academy
 - Algorithm optimization techniques
 - Python community for best practices
-
----
-
-**Note:** For detailed information about each algorithm, please refer to the individual README files:
-- `README(broken_array).md` - Detailed broken array search documentation
-- `README(quick_sort_effective).md` - Detailed quick sort documentation
